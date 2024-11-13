@@ -1,0 +1,24 @@
+.menucard .btn:hover {
+    background-color:green!important;
+    color:white !important;
+}
+.menuant .btn:hover {
+    background-color:green!important;
+    color:white !important;
+}
+.menumen .btn:hover {
+    background-color:green!important;
+    color:white !important;
+}
+.menucard {
+    animation-duration:120s;
+    animation-delay:120s;
+}
+.menuant {
+    animation-duration:120s;
+    animation-delay:120s;
+}
+.menumen {
+    animation-duration:120s;
+    animation-delay:120s;
+}

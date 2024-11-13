@@ -1,0 +1,45 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.bloglist {
+    text-align: center;
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.lists {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.bloks {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.cafe :hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.cafe {
+animation-duration:1000s;
+animation-delay:100000s;
+}
+.pico {
+    animation-duration:1000s;
+animation-delay:100000s;
+}
+.pico2 {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.catering {
+    animation-duration:1000s;
+    animation-delay:100000s;   
+}
+.cate {
+    animation-duration:1000s;
+    animation-delay:100000s;   
+}
+.cook {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}

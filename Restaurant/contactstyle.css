@@ -1,0 +1,28 @@
+.contains :hover{
+    background-color:palevioletred;
+    color: aliceblue;
+}
+.main {
+    width:1359px;
+    height:489px;
+    background-image: url(pexels-pixabay-59816.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contains {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.main {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.query {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
+.help {
+    animation-duration:1000s;
+    animation-delay:100000s;
+}
